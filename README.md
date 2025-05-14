@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/grafikogr-freepik-mcp-server-badge.png)](https://mseep.ai/app/grafikogr-freepik-mcp-server)
+
 # Freepik Flux AI MCP Sunucusu
 
 Bu proje, Claude Desktop için Freepik'in Flux AI görsel üretme hizmetini kullanarak metin açıklamalarından görseller oluşturan bir Model Context Protocol (MCP) sunucusudur.
